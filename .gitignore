@@ -1,0 +1,23 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs and temporary files
+build/
+dist/
+*.o
+*.elf
+*.hex
+*.map
+*.tmp
+*.log
+
+# Local secrets/configuration (do not commit)
+.env
+.env.*
+!.env.example
+secrets/
+credentials.*
+config.local.*

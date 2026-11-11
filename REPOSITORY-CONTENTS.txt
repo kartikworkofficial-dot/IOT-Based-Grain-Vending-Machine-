@@ -1,0 +1,20 @@
+Repository file inventory
+
+.gitignore
+CONTRIBUTING.md
+README.md
+diagrams/system-block-diagram-presentation.jpg
+diagrams/system-block-diagram.png
+docs/architecture-and-working.md
+docs/hardware.md
+docs/project-scope-and-future-work.md
+docs/software.md
+docs/source-inconsistencies.md
+docs/source-materials-and-evidence.md
+docs/testing-and-results.md
+hardware/README.md
+images/project/README.md
+software/README.md
+src/README.md
+tests/README.md
+REPOSITORY-CONTENTS.txt
